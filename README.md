@@ -1,4 +1,4 @@
-# Ultrasonic Distance and Temperature Sensor Alert System
+# Ultrasonic Distance and Temperature Sensor Alert System using ESP32
 
 This project combines an ultrasonic distance sensor and an LM35 temperature sensor with an ESP32 to monitor distance and temperature. If a specified threshold for either is crossed, an alert system with a buzzer and LED is activated.
 
